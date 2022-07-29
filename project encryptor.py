@@ -1,6 +1,5 @@
 # Name : Shubhay Islaniya 
-# Intership : Cybersecruity
-# Topic : Image encryption using triple DES encryption technique
+
 
 
 
